@@ -4,7 +4,7 @@ h5{
   font-style: italic;
 }
 h1{
-  color: aqua;
+  color: crimson;
 }
 .hobbies{
   float: center;
@@ -13,7 +13,22 @@ h1{
   border-bottom: solid magenta;
   border-left: solid magenta;
   border-right: solid magenta;
+  color: white;
 }
 .img{
   float: right;
+}
+html{background-image: url(/home/maxwell/Desktop/moringa-school-projects/maxiesportfolio/image/space.jpg);
+}
+.weblink{
+  color: white;
+}
+.studies{
+  color: white;
+}
+.jobs{
+  color: white;
+}
+.backg{
+  color: white;
 }
