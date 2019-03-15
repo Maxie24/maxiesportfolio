@@ -6,3 +6,11 @@ h5{
 h1{
   color: aqua;
 }
+.hobbies{
+  float: left;
+  border: 9px;
+  border-top: solid magenta;
+  border-bottom: solid magenta;
+  border-left: solid magenta;
+  border-right: solid magenta;
+}
