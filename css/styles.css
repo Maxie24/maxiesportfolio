@@ -13,7 +13,7 @@ h1{
   border-bottom: solid magenta;
   border-left: solid magenta;
   border-right: solid magenta;
-  color: white;
+  color: black;
 }
 .img{
   float: right;
@@ -21,14 +21,14 @@ h1{
 html{background-image: url(/home/maxwell/Desktop/moringa-school-projects/maxiesportfolio/image/space.jpg);
 }
 .weblink{
-  color: white;
+  color: black;
 }
 .studies{
-  color: white;
+  color: black;
 }
 .jobs{
-  color: white;
+  color: black;
 }
 .backg{
-  color: white;
+  color: black;
 }
