@@ -7,7 +7,7 @@ h1{
   color: aqua;
 }
 .hobbies{
-  float: left;
+  float: center;
   border: 9px;
   border-top: solid magenta;
   border-bottom: solid magenta;
