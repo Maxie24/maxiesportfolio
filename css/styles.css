@@ -14,3 +14,6 @@ h1{
   border-left: solid magenta;
   border-right: solid magenta;
 }
+.img{
+  float: right;
+}
